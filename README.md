@@ -11,8 +11,8 @@
 - BEM methodology.
 
 ## Links
-- Solution URL: [https://github.com/norrland90/huddle-landing-page)
-- Live Site URL: [https://norrland90.github.io/huddle-landing-page/)
+- Solution URL: [https://github.com/norrland90/huddle-landing-page-with-alternating-feature-blocks]
+- Live Site URL: [https://norrland90.github.io/huddle-landing-page-with-alternating-feature-blocks]
 
 ## Status
 Project is: _finished_.
