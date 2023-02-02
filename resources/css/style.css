@@ -113,10 +113,23 @@ body {
     justify-items: center;
     row-gap: 3rem;
 
+    position: relative;
+    
     background-image: url("../images/bg-hero-mobile.svg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10rem 2.5rem 2.5rem;
+}
+
+.intro::after {
+    content: "";
+    background: hsla(193, 100%, 96%, 0.75);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
 }
 
 .intro__text-container {
